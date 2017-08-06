@@ -185,6 +185,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/NX549J/proprietary/lib64/libqti_performance.so:system/lib64/libqti_performance.so \
     vendor/nubia/NX549J/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
     vendor/nubia/NX549J/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
+    vendor/nubia/NX549J/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
     vendor/nubia/NX549J/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/nubia/NX549J/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/nubia/NX549J/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
