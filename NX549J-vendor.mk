@@ -81,16 +81,9 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/NX549J/proprietary/etc/camera/imx230_chromatix.xml:system/etc/camera/imx230_chromatix.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/imx230_qc2002_chromatix.xml:system/etc/camera/imx230_qc2002_chromatix.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/imx230_qc2002_with_gyro_chromatix.xml:system/etc/camera/imx230_qc2002_with_gyro_chromatix.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/imx258_aux_chromatix.xml:system/etc/camera/imx258_aux_chromatix.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/imx258_chromatix.xml:system/etc/camera/imx258_chromatix.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/imx258_front_chromatix.xml:system/etc/camera/imx258_front_chromatix.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/imx258_main_chromatix.xml:system/etc/camera/imx258_main_chromatix.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/imx258_mono_chromatix.xml:system/etc/camera/imx258_mono_chromatix.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/imx298_chromatix.xml:system/etc/camera/imx298_chromatix.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/imx318_chromatix.xml:system/etc/camera/imx318_chromatix.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/msm8937_camera.xml:system/etc/camera/msm8937_camera.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/msm8952_camera.xml:system/etc/camera/msm8952_camera.xml \
-    vendor/nubia/NX549J/proprietary/etc/camera/msm8953_camera_nubia549.xml:system/etc/camera/msm8953_camera_nubia549.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/msm8953_camera_nubia551.xml:system/etc/camera/msm8953_camera_nubia551.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/msm8953_camera.xml:system/etc/camera/msm8953_camera.xml \
     vendor/nubia/NX549J/proprietary/etc/camera/msm8996_camera.xml:system/etc/camera/msm8996_camera.xml \
